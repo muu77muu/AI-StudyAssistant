@@ -1,11 +1,11 @@
 # AI-StudyAssistant
-An AI Study Assistant who will help you in your studies by generating notes, practice questions, and other materials to support your learning.
+An AI Study Assistant who will provide help in your studies by generating notes, practice questions, and other additional features to support your learning.
 
 ## Existing Core Features
-- NA -
+_- NA -_
 
 ## Existing Additional Features
-- NA -
+_- NA -_
 
 ## Planned Core Features
 1. Learning Dashboard
@@ -48,5 +48,5 @@ An AI Study Assistant who will help you in your studies by generating notes, pra
 * GitHub Actions [test pipeline] [not implemented yet]
 * python-dotenv [not implemented yet]
 
-
-
+# Version
+v1 (as of 28/04/2026)
